@@ -10,6 +10,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "@apollo/client": "^3.11.8",
+    "@react-native-async-storage/async-storage": "^2.0.0",
+    "@react-native-community/netinfo": "^6.0.6",
+    "graphql": "^16.9.0",
     "react": "18.3.1",
     "react-native": "0.75.4"
   },
