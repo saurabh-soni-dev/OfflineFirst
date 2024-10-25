@@ -2,6 +2,7 @@ import React, {useCallback, useRef} from 'react';
 import {Button, TextInput, View} from 'react-native';
 
 const App = () => {
+  //gitpush
   const inputRef = useRef<TextInput>(null);
 
   const editText = useCallback(() => {
